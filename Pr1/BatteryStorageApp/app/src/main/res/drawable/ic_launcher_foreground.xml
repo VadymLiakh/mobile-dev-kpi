@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Іконка застосунку: акумулятор з блискавкою -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Корпус акумулятора -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M42,34h24v-4h-24z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M36,36h36a4,4 0,0 1,4 4v34a4,4 0,0 1,-4 4h-36a4,4 0,0 1,-4 -4v-34a4,4 0,0 1,4 -4z" />
+    <!-- Блискавка -->
+    <path
+        android:fillColor="#FF2EB872"
+        android:pathData="M57,42l-12,18h8l-4,14l12,-18h-8z" />
+</vector>
